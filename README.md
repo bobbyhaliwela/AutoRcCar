@@ -26,7 +26,7 @@ If you wish to build a similar project, these are the pre-requisites for both ha
 
 ### Software
 
-You don't have to install the exact same version of these packages, but be sure to see the documentation if you are running a newer version and make necessary changes to the code.
+You don't have to install the exact same version of these packages, but be sure to see the documentation if you are running a newer version and make the necessary changes to the code.
 
 - Ubuntu 16.04
 - Python 3
