@@ -20,6 +20,7 @@ If you wish to build a similar project, these are the pre-requisites for both ha
 - ESC - usually comes with the RC Car
 - Servo
 - PS4 controller
+- 7.2v 5000mah NiMH battery
 
 ### Software
 
