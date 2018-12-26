@@ -5,4 +5,4 @@
 
 ### Acknowledgements
 
-**Uvindu J Wijesinghe's RCAutopilot** project, which helped build the foundation of this project, that is controlling the rc car using PS4 controller. This project used lots of his code to implement this. You can see his project here: https://github.com/UvinduW/RCAutopilot
+**Uvindu J Wijesinghe's RCAutopilot** project, which helped build the foundation of this project, which is to control the rc car using PS4 controller. This project used lots of his code to implement this. You can see his project here: https://github.com/UvinduW/RCAutopilot
