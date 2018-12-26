@@ -40,7 +40,7 @@ You don't have to install the exact same version of these packages, but be sure 
 - pigpio - install only on raspberry pi: http://abyz.me.uk/rpi/pigpio/download.html
 - jstest-gtk - to calibrate PS4 controller
 
-## Instructions
+## How To's
 ### Wiring
 
 Follow these instructions carefully if you don't want your raspberry pi get fried!
