@@ -2,7 +2,7 @@
 
 **AutoRcCar** is a personal project of the author, used to deepen the author's knowledge of both deep learning in general and how deep learning could be used for self driving car. 
 
-The project used a 1/10 scale Tamiya to represent a real life car and a raspberry pi as its brain. The project aim to use both behavioral clonning and reinforcement learning technique to drive the car autonomously. For the time being, only behavioral clonning has been implemented. A convolutional neural network is used to generate both steering angle and throttle values for the car to drive itself around the track. The project used Nvidia PilotNet architecture to do this. You can read more about Nvidia PilotNet here: https://arxiv.org/pdf/1704.07911.pdf
+The project used a 1/10 scale Tamiya RC car to represent a real life car and a raspberry pi as its brain. The project aim to use both behavioral clonning and reinforcement learning technique to drive the car autonomously. For the time being, only behavioral clonning has been implemented. A convolutional neural network is used to generate both steering angle and throttle values for the car to drive itself around the track. The project used Nvidia PilotNet architecture to do this. You can read more about Nvidia PilotNet here: https://arxiv.org/pdf/1704.07911.pdf
 
 ## Acknowledgements
 
