@@ -19,8 +19,10 @@ If you wish to build a similar project, these are the pre-requisites for both ha
 - 1/10 RC Car
 - ESC - usually comes with the RC Car
 - Servo
-- PS4 controller - or XBox controller
+- PS4 controller
 - 7.2v 5000mah NiMH battery - min 3000mah is preffered
+
+You can use XBox controller as well but you need to install the driver for the controller on ubuntu.
 
 ### Software
 
@@ -36,6 +38,7 @@ You don't have to install the exact same version of these packages, but be sure 
 - TensorFlow 1.11.0
 - Keras 2.2.4
 - pigpio - install only on raspberry pi: http://abyz.me.uk/rpi/pigpio/download.html
+- jstest-gtk - to calibrate PS4 controller
 
 ## How To
 ### Wiring
