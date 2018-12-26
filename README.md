@@ -22,7 +22,7 @@ If you wish to build a similar project, these are the pre-requisites for both ha
 - PS4 controller
 - 7.2v 5000mah NiMH battery - min 3000mah is preffered
 
-*Note: You can use XBox controller as well but you need to install the driver for the controller on ubuntu.*
+**Note: You can use XBox controller as well but you need to install the driver for the controller on ubuntu.
 
 ### Software
 
