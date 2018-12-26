@@ -5,3 +5,13 @@
 ## Acknowledgements
 
 **Uvindu J Wijesinghe's RCAutopilot** project, which helped build the foundation of this project, which is to control the rc car using PS4 controller. This project used lots of his code to implement this. You can see his project here: https://github.com/UvinduW/RCAutopilot
+
+## Prerequisites
+### Hardware
+
+- Raspberry Pi 3
+- Raspberry Pi Camera - fish eye is preffered
+- 1/10 RC Car
+- ESC - usually comes with the RC Car
+- Servo
+- PS4 controller
