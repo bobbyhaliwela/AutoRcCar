@@ -35,3 +35,9 @@ You don't have to install the exact same version of these packages, but be sure 
 - TensorFlow 1.11.0
 - Keras 2.2.4
 - pigpio - install only on raspberry pi: http://abyz.me.uk/rpi/pigpio/download.html
+
+## How To
+### Wiring
+
+Follow these instructions carefully if you don't want your raspberry pi get fried!
+
