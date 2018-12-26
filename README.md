@@ -34,7 +34,7 @@ You don't have to install the exact same version of these packages, but be sure 
 - OpenCV 3.1.0
 - Numpy 1.15.4
 - PIL 5.3.0
-- Matplotlib
+- Matplotlib 3.0.1
 - PyGame 1.9.4
 - TensorFlow 1.11.0
 - Keras 2.2.4
