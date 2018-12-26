@@ -23,6 +23,7 @@ If you wish to build a similar project, these are the pre-requisites for both ha
 
 You don't have to install the exact same version of these packages, but be sure to see the documentation of these packages if you are running a newer version.
 
+- Ubuntu 16.04
 - Python 3
 - Scipy 1.1.0
 - OpenCV 3.1.0
