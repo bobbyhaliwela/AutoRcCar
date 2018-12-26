@@ -19,7 +19,7 @@ If you wish to build a similar project, these are the pre-requisites for both ha
 - 1/10 RC Car
 - ESC - usually comes with the RC Car
 - Servo
-- PS4 controller
+- PS4 controller - or XBox controller
 - 7.2v 5000mah NiMH battery - min 3000mah is preffered
 
 ### Software
