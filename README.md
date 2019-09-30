@@ -1,4 +1,4 @@
-# AutoRcCar -- Behavioral Clonning
+# AutoRcCar
 
 **AutoRcCar** is a personal project of the author to develop a better understanding on how deep learning can be used for self driving car. 
 
